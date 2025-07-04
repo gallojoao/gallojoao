@@ -1,8 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1FF765&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm João</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Welcome" width="300"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A technology enthusiast and student from Brazil.</h3>
 
 ---
